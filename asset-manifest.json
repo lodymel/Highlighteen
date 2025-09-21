@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Highlighteen/static/js/main.d12e7424.js",
+    "main.js": "/Highlighteen/static/js/main.05c3a879.js",
     "index.html": "/Highlighteen/index.html",
-    "main.d12e7424.js.map": "/Highlighteen/static/js/main.d12e7424.js.map"
+    "main.05c3a879.js.map": "/Highlighteen/static/js/main.05c3a879.js.map"
   },
   "entrypoints": [
-    "static/js/main.d12e7424.js"
+    "static/js/main.05c3a879.js"
   ]
 }
