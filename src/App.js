@@ -530,7 +530,7 @@ function App() {
           <source src="https://www.soundjay.com/misc/sounds/bell-ringing-05.wav" type="audio/wav" />
         </audio>
         
-        <Router>
+        <Router basename={process.env.NODE_ENV === 'production' ? '/Highlighteen' : ''}>
           <ScrollToTop />
           <Navigation />
           <Routes>
